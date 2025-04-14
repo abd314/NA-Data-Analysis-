@@ -1,5 +1,4 @@
 
-
 # quest-1 : Variable and Data types
 # Create a variable called Name, Age, and Student
 Name = "Abdullah" #string
@@ -70,7 +69,7 @@ print(a is not b)
 
 # quest 7 : Membership operations
 # Initialize a list
-my_list = [dhaka, chittagong, rajshahi]
+my_list = ['dhaka', 'chittagong', 'rajshahi']
 # Check membership using 'in' operator
 print("dhaka" in my_list)
 # Check membership using 'not in' operator
